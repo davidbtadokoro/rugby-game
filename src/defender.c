@@ -1,8 +1,5 @@
 // Standard headers
 #include <stdio.h>
-#include <assert.h>
-#include <stdlib.h>
-#include <time.h>
 
 // Internal headers
 #include "direction.h"
